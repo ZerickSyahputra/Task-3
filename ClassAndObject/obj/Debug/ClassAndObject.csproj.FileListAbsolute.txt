@@ -1,0 +1,14 @@
+C:\Users\ACER\Documents\Mata Kuliah Universitas Amikom Yogyakarta\Semester 2\Pemrograman\Pertemuan 3\Task3\ClassAndObject\bin\Debug\ClassAndObject.exe.config
+C:\Users\ACER\Documents\Mata Kuliah Universitas Amikom Yogyakarta\Semester 2\Pemrograman\Pertemuan 3\Task3\ClassAndObject\bin\Debug\ClassAndObject.exe
+C:\Users\ACER\Documents\Mata Kuliah Universitas Amikom Yogyakarta\Semester 2\Pemrograman\Pertemuan 3\Task3\ClassAndObject\bin\Debug\ClassAndObject.pdb
+C:\Users\ACER\Documents\Mata Kuliah Universitas Amikom Yogyakarta\Semester 2\Pemrograman\Pertemuan 3\Task3\ClassAndObject\obj\Debug\ClassAndObject.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Mata Kuliah Universitas Amikom Yogyakarta\Semester 2\Pemrograman\Pertemuan 3\Task3\ClassAndObject\obj\Debug\ClassAndObject.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Mata Kuliah Universitas Amikom Yogyakarta\Semester 2\Pemrograman\Pertemuan 3\Task3\ClassAndObject\obj\Debug\ClassAndObject.exe
+C:\Users\ACER\Documents\Mata Kuliah Universitas Amikom Yogyakarta\Semester 2\Pemrograman\Pertemuan 3\Task3\ClassAndObject\obj\Debug\ClassAndObject.pdb
+D:\Semester 2\Pemrograman\Task3\ClassAndObject\bin\Debug\ClassAndObject.exe.config
+D:\Semester 2\Pemrograman\Task3\ClassAndObject\bin\Debug\ClassAndObject.exe
+D:\Semester 2\Pemrograman\Task3\ClassAndObject\bin\Debug\ClassAndObject.pdb
+D:\Semester 2\Pemrograman\Task3\ClassAndObject\obj\Debug\ClassAndObject.csproj.AssemblyReference.cache
+D:\Semester 2\Pemrograman\Task3\ClassAndObject\obj\Debug\ClassAndObject.csproj.CoreCompileInputs.cache
+D:\Semester 2\Pemrograman\Task3\ClassAndObject\obj\Debug\ClassAndObject.exe
+D:\Semester 2\Pemrograman\Task3\ClassAndObject\obj\Debug\ClassAndObject.pdb
